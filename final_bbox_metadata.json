@@ -1,0 +1,44 @@
+{
+  "pdf_path": "drylab.pdf",
+  "page_number": 0,
+  "bbox": [
+    0,
+    210,
+    595.2756,
+    430
+  ],
+  "text": [],
+  "text_line_count": 0,
+  "images": [
+    {
+      "image_id": 0,
+      "image_bbox": [
+        56.6929,
+        177.05990000000008,
+        538.5826999999999,
+        426.3613
+      ],
+      "width": 481.8897999999999,
+      "height": 249.30139999999994,
+      "name": "I1",
+      "srcsize": [
+        2768,
+        1432
+      ]
+    }
+  ],
+  "image_count": 1,
+  "table_signal": {
+    "page_number": 0,
+    "bbox": [
+      0,
+      210,
+      595.2756,
+      430
+    ],
+    "lines_count": 0,
+    "rects_count": 0,
+    "curves_count": 0,
+    "likely_table": false
+  }
+}
