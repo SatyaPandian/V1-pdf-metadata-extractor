@@ -1,4 +1,4 @@
-# PDF Bounding Box Metadata Extractor (No PyMuPDF)
+# PDF Bounding Box Metadata Extractor
 
 Python utility to extract metadata from a **given bounding box** inside a PDF page.
 
